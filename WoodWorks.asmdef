@@ -1,0 +1,31 @@
+{
+    "name": "WoodWorks",
+    "rootNamespace": "",
+    "references": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "System.Collections.Immutable.dll",
+        "BepInEx.dll",
+        "Bindito.Core.dll",
+        "0Harmony.dll",
+        "TimberApi.dll",
+        "TimberApi.Core.dll",
+        "TimberApi.Common.dll",
+        "Timberborn.AssetSystem.dll",
+        "Timberborn.BaseComponentSystem.dll",
+        "Timberborn.CoreUI.dll",
+        "Timberborn.Debugging.dll",
+        "Timberborn.EntityPanelSystem.dll",
+        "Timberborn.InputSystem.dll",
+        "Timberborn.Localization.dll",
+        "Timberborn.Persistence.dll",
+        "Timberborn.TemplateSystem.dll"
+    ],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

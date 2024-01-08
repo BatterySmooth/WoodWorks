@@ -1,0 +1,16 @@
+{
+  "Name": "WoodWorks",
+  "Version": "0.0.1",
+  "UniqueId": "battery.WoodWorks",
+  "MinimumApiVersion": "0.5.5.3",
+  "MinimumGameVersion": "0.2.9.1",
+  "EntryDll": "WoodWorks.dll",
+    "Assets": [
+      {
+        "Prefix": "battery.WoodWorks",
+        "Scenes": [
+          "All"
+        ]
+      }
+    ]
+  }

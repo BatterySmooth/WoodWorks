@@ -1,0 +1,6 @@
+ID,Text,Comment
+
+battery.WoodWorks.PositionablePrefab.UI.PositionablePrefab.Header,"Reposition Object",-
+battery.WoodWorks.PositionablePrefab.UI.PositionablePrefab.XYHeader,"Horizontal",-
+battery.WoodWorks.PositionablePrefab.UI.PositionablePrefab.ZHeader,"Vertical",-
+battery.WoodWorks.PositionablePrefab.Toolbar.Description,"● <color=#04FB9EFF>Positionable:</color> This can be repositioned within a block once built",-
