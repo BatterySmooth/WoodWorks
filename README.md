@@ -1,6 +1,6 @@
-<p align="center">
-  <img src="StaticFiles/img/WoodWorks Logo Small.png" />
-</p>
+<div align="center">
+  <img src="StaticFiles/img/WoodWorks Logo Small.png"  alt="WoodWorks Logo"/>
+</div>
 
 # Introduction
 
